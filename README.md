@@ -40,4 +40,4 @@
 > 2. Clone this repository : git clone https://github.com/RIGUPTA2/Getting-CleaningData
 > 3. Open R and change directory into what you created in #1 using setwd(path) command with path being set to the location where run_analysis.R is placed
 > 4. source("run_analysis.R")
-
+> 5. tidyData.txt is created as output of the run_analysis.R prgoram in the same location where run_analysis.R is placed
