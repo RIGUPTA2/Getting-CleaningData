@@ -49,6 +49,7 @@ NOTE: Much content from here was taken from the sources at [1] and [2]
 > Measurements were extracted for mean, standard deviation for each measurement.
 > variable/column names were labeled with descriptive cleaner names.
 > Results were output as an indepenent tidy data set at ./data/TidyDataSet.txt
-> References
+
+## References
 > [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 > [2] http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
